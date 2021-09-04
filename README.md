@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AFahmyK
 - 👀 I’m interested in Gaming and Coding
-- 🌱 I’m currently learning Data Structures
+- 🌱 I’m currently learning Web development
 - 📫 How to reach me @AFahmyK on twitter
 <!---
 AFahmyK/AFahmyK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
